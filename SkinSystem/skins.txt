@@ -1,0 +1,2 @@
+0;Default;0;0;32;32
+1;Ice Elemental;32;0;32;32
